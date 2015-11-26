@@ -16,6 +16,7 @@ Post is specific to Universal Windows 8.1 apps
 Post is specific to Universal Windows Phone 8.1 apps 
  * **[WPSL]**                
 Post is specific to Windows Phone Silverlight 8 and 8.1 apps.
+
 ##### **2. Device Version**
 * **[Surface]/[Tablet]/[Lumia 620]**                 
 Post is about the specified Device
@@ -26,7 +27,6 @@ Post is about the Windows PC OS version.
 * **[Mobile-Build-10586]**                
 Post is about the Windows Phone OS version.
 
-##             
 
 
 #### **二：Language Based**
