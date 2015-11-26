@@ -31,11 +31,12 @@ Post is about the Windows Phone OS version.
 
 #### **二：Language Based**
 
- ##### **1.Front-desk language**
+##### **1.Front-desk language**
  * **[XAML]**                
 Post is about Xaml controls&Databinding&Layout&Animation
  * **[HTML]**                
 Post is specific to HTML/JavaScript/CSS.
+
 ##### **2.Code-behind language**
  * **[C#]**                
 Post is specific to C# language
